@@ -93,7 +93,7 @@ GEM
     google-protobuf (3.23.4-x86_64-linux)
     i18n (1.14.1)
       concurrent-ruby (~> 1.0)
-    js-routes (1.4.14)
+    js-routes (2.2.6)
       railties (>= 4)
     loofah (2.21.3)
       crass (~> 1.0.2)
