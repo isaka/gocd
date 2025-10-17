@@ -27,6 +27,6 @@ dependencies {
   implementation gradleApi()
   implementation 'de.undercouch:gradle-download-task:5.6.0'
   implementation 'org.ysb33r.gradle:grolifant-herd:4.0.0'
-  implementation 'org.jruby:jruby-complete:9.4.14.0'
+  implementation 'org.jruby:jruby-complete:10.0.2.0'
   implementation 'org.freemarker:freemarker:2.3.34'
 }
