@@ -2789,10 +2789,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"bourbon@npm:~7.1.0":
-  version: 7.1.0
-  resolution: "bourbon@npm:7.1.0"
-  checksum: 10c0/ac786e2597c8a8fcaa6d65c8ce062af16a20422c0df31f82f7fc5abbc60c82215e8cf9eee89c83c9556103c26b6156877ba414b210cf8d6c2096e6a43bfe574f
+"bourbon@npm:~7.3.0":
+  version: 7.3.0
+  resolution: "bourbon@npm:7.3.0"
+  checksum: 10c0/e949e0a78303f89dd5524afc0f3421e0c5d6e2dafb73564bd88f5731b0d93772fa610f4b62e5891c0c2e970338679d1171aa10b4bd35c5f9b51eeabc6df746bd
   languageName: node
   linkType: hard
 
@@ -4859,7 +4859,7 @@ __metadata:
     angular: "file:node-vendor/angular#node-vendor/angular::hash=036648&locator=gocd-server-ui%40workspace%3A."
     awesomplete: "npm:^1.1.7"
     babel-loader: "npm:^10.1.1"
-    bourbon: "npm:~7.1.0"
+    bourbon: "npm:~7.3.0"
     chart.js: "npm:^4.5.1"
     chartjs-plugin-zoom: "npm:^2.2.0"
     classnames: "npm:^2.5.1"
